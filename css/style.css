@@ -1,0 +1,29 @@
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    font-family: fantasy;
+    text-decoration: underline;
+    background-color: green;
+    width: 410px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+    padding: 10px;
+}
+fieldset {
+    width: 10em;
+    background-color: pink;
+}
+input{
+    margin-bottom: 2em;
+    height: 2em;
+    width: 20em;
+    }
+legend{
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: cursive;
+    background-color: yellow;
+    border-radius: 20px;
+    padding: 5px;
+    border: 5px outset brown;
+}
