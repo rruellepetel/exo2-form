@@ -13,12 +13,12 @@ fieldset {
     width: 10em;
     background-color: pink;
 }
-input{
+input {
     margin-bottom: 2em;
     height: 2em;
     width: 20em;
     }
-legend{
+legend {
     font-weight: bold;
     text-decoration: underline;
     font-family: cursive;
